@@ -1,4 +1,4 @@
-<!-- The file that ci trols the home page is index.php -->
+<!-- Controls the home page  -->
 <?php get_header(); ?>
 
 <div class="page-banner">
